@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.overall {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.para {
+  color: #64748b;
+}
+.image {
+  height: 20px;
+  width: 20px;
+  margin-right: 20px;
+}
